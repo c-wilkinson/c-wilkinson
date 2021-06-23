@@ -11,4 +11,7 @@ Currently, I'm playing around with a few projects.  I'm writing a simple Twitter
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-wilkinson&theme=dark&hide_border=true)
 
 <a href="https://twitter.com/SQLCadavre" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/SQLCadavre.svg?style=social"/></a>
+
+<a href='http://strava.com/athletes/72989925/badge' target="_clean"><img src='http://badges.strava.com/logo-strava.png' alt='Strava' />
+</a>
 </div>
