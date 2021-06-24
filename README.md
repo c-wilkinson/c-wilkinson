@@ -12,6 +12,5 @@ Currently, I'm playing around with a few projects.  I'm writing a simple Twitter
 
 <a href="https://twitter.com/SQLCadavre" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/SQLCadavre.svg?style=social"/></a>
 
-<a href='http://strava.com/athletes/72989925' target="_clean"><img src='http://badges.strava.com/logo-strava.png' alt='Strava' />
-</a>
+<a href='https://strava.com/athletes/72989925' target="_clean"><img src='https://www.cadavre.co.uk/images/strava.png' alt='Strava'/></a>
 </div>
