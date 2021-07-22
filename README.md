@@ -6,11 +6,15 @@ Currently, I'm playing around with a few projects.  I'm writing a simple Twitter
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-wilkinson)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-wilkinson&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-wilkinson&theme=dark&hide_border=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-wilkinson&theme=dark)
 
 <a href="https://twitter.com/SQLCadavre" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/SQLCadavre.svg?style=social"/></a>
 
-<a href='https://strava.com/athletes/72989925' target="_clean"><img src='https://www.cadavre.co.uk/images/strava.png' alt='Strava'/></a>
+<a href="www.linkedin.com/in/craigawilkinson" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/></a>
+  
+<a href='https://strava.com/athletes/72989925' target="_clean"><img src='https://img.shields.io/badge/Strava-orange?style=flat&logo=strava&labelColor=white'/></a>
 </div>
