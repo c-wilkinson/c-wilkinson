@@ -10,7 +10,7 @@ Currently, I'm playing around with a few projects.  I'm writing a simple Twitter
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-wilkinson&theme=dark&hide_border=true)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-wilkinson&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-wilkinson&count_private=true&include_all_commits=true&show_icons=true&hide=stars,issues,contribs&theme=dark)
 
 <a href="https://twitter.com/SQLCadavre" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/SQLCadavre.svg?style=social"/></a>
 
