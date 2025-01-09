@@ -4,14 +4,17 @@ Welcome to my GitHub profile! I'm a passionate software engineer with over 10 ye
 
 
 🌟 About Me
+
 I love diving into data, solving complex problems, and learning new things. My coding journey is rooted in my enthusiasm for transforming ideas into actionable solutions. Whether it's crafting high-performance database designs or automating repetitive tasks, I always aim to create tools that make life easier and more efficient.
 
 
 💡 Why I Code
+
 For me, coding isn’t just a profession—it’s a playground for creativity. From automating daily tasks to optimising workflows, I’m constantly looking for ways to simplify the complex and make the mundane magical.
 
 
 🏃‍♂️ Outside the Terminal
+
 When I’m not coding, you can find me running or spending time with my family. I’m a keen runner, and I enjoy the clarity it brings—whether I’m pacing through my local park or cheering my son on at junior parkruns.
 
 
