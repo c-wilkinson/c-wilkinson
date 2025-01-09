@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Craig Wilkinson
+Hey there! 👋 I'm Craig Wilkinson 
 Welcome to my GitHub profile! I'm a passionate software engineer with over 10 years of experience in SQL Server and the .NET ecosystem.
 
 🌟 About Me
