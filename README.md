@@ -1,22 +1,13 @@
-Hey there! 👋 I'm Craig Wilkinson 
+I'm Craig Wilkinson, a UK-based Senior Software Engineer with over a decade of experience delivering high-performance, data-driven systems. My background is rooted in the Microsoft stack, with a strong focus on SQL Server and C#. I've led the design and implementation of reporting platforms, data pipelines, and automation tooling across a range of business-critical environments.
 
-Welcome to my GitHub profile! I'm a passionate software engineer with over 10 years of experience in SQL Server and the .NET ecosystem.
+SQL Server remains my core expertise, but in recent years I've also worked with Redshift and PostgreSQL, adapting to cloud-first architectures and large-scale data processing. I'm comfortable getting deep into query tuning, schema design, and backend services—especially when there's a gnarly data problem to unravel.
 
+This GitHub contains a mix of exploratory side projects and tools I've built to scratch my own itches. Expect some rough edges.
 
-🌟 About Me
-
-I love diving into data, solving complex problems, and learning new things. My coding journey is rooted in my enthusiasm for transforming ideas into actionable solutions. Whether it's crafting high-performance database designs or automating repetitive tasks, I always aim to create tools that make life easier and more efficient.
-
-
-💡 Why I Code
-
-For me, coding isn’t just a profession—it’s a playground for creativity. From automating daily tasks to optimising workflows, I’m constantly looking for ways to simplify the complex and make the mundane magical.
-
-
-🏃‍♂️ Outside the Terminal
-
-When I’m not coding, you can find me running or spending time with my family. I’m a keen runner, and I enjoy the clarity it brings—whether I’m pacing through my local park or cheering my son on at junior parkruns.
-
+When I'm not coding, you'll probably find me:
+- Running marathons (I've got the tattoos to prove it)
+- Playing games with my son
+- Drinking whisky and planning blog posts I may or may not write
 
 <div align="center">
 <a href="https://twitter.com/SQLCadavre" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/SQLCadavre.svg?style=social"/></a>
