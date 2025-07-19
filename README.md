@@ -15,4 +15,11 @@ When I'm not coding, you'll probably find me:
 <a href="https://www.linkedin.com/in/craigawilkinson" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/></a>
   
 <a href='https://strava.com/athletes/72989925' target="_clean"><img src='https://img.shields.io/badge/Strava-orange?style=flat&logo=strava&labelColor=white'/></a>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-wilkinson&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-wilkinson&theme=dark&hide_border=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-wilkinson&count_private=true&include_all_commits=true&show_icons=true&hide=stars,issues,contribs&theme=dark)
+
 </div>
